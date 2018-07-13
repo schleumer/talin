@@ -5,7 +5,7 @@ from __future__ import absolute_import
 # noinspection PyUnresolvedReferences
 import re
 
-from talon import quotations, utils as u
+from talin import quotations, utils as u
 from . import *
 from .fixtures import *
 

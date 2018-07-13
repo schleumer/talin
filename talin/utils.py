@@ -12,7 +12,7 @@ import six
 from lxml.cssselect import CSSSelector
 from lxml.html import html5parser
 
-from talon.constants import RE_DELIMITER
+from talin.constants import RE_DELIMITER
 
 
 def safe_format(format_string, *args, **kwargs):

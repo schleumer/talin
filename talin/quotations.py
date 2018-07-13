@@ -12,9 +12,9 @@ from copy import deepcopy
 
 from lxml import html, etree
 
-from talon.utils import (get_delimiter, html_tree_to_text,
+from talin.utils import (get_delimiter, html_tree_to_text,
                          html_document_fromstring)
-from talon import html_quotations
+from talin import html_quotations
 from six.moves import range
 import six
 

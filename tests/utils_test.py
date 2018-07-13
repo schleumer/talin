@@ -5,7 +5,7 @@ from __future__ import absolute_import
 import cchardet
 import six
 
-from talon import utils as u
+from talin import utils as u
 from . import *
 
 

@@ -1,5 +1,5 @@
 recursive-exclude tests *.pyc *~
-recursive-exclude talon *.pyc *~
+recursive-exclude talin *.pyc *~
 include train.data
 include classifier
 include LICENSE
