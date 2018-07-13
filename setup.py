@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 from setuptools.command.install import install
 
 setup(name='talin',
-      version='1.4.5',
+      version='10.0.0',
       description=("Library to extract message quotations, based on Mailgun's Talon but without signatures and ML."),
       long_description=open("README.rst").read(),
       author='Wesley Willian Schleumer de Góes',
